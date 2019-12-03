@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -50,7 +51,7 @@
           <div class="ji__circle__column">
             <img
               class="ji__offer__icon"
-              src="iteam__icon.png"
+              src="team__icon.png"
               width="100"
               height="100"
             />
@@ -146,3 +147,15 @@
       </div>
   </body>
 </html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
