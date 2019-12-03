@@ -50,7 +50,7 @@
           <div class="ji__circle__column">
             <img
               class="ji__offer__icon"
-              src="team__icon.png"
+              src="iteam__icon.png"
               width="100"
               height="100"
             />
